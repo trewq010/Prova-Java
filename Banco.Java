@@ -1,4 +1,4 @@
-package Avaliacao;
+package Prova;
 
 public class Banco {
 
