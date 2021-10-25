@@ -21,5 +21,6 @@ public class Banco {
 	}
 	public void setNomeAgencia(String nomeAgencia) {
 		this.nomeAgencia = nomeAgencia;
-	} 	
+	} 
+	
 }
